@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hitNbrow/static/css/main.28255028.css",
+    "main.js": "/hitNbrow/static/js/main.0b68513a.js",
+    "index.html": "/hitNbrow/index.html",
+    "main.28255028.css.map": "/hitNbrow/static/css/main.28255028.css.map",
+    "main.0b68513a.js.map": "/hitNbrow/static/js/main.0b68513a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28255028.css",
+    "static/js/main.0b68513a.js"
+  ]
+}
